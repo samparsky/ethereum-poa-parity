@@ -19,7 +19,7 @@ There is already an account with an empty password that has enough ether:
 0x6B0c56d1Ad5144b4d37fa6e27DC9afd5C2435c3B
 ```
 
-And another who is broke:
+And another with no ether:
 ```
 0x00E3d1Aa965aAfd61217635E5f99f7c1e567978f
 ```
